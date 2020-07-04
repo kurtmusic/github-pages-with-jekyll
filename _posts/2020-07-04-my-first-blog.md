@@ -1,3 +1,4 @@
-/This is my first blog post/
-
-I love the content here, It's totally not empty!
+---
+title: "You've reached my first blog"
+date: 2020-07-04
+---
